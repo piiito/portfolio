@@ -135,7 +135,7 @@ body{
 
       }
 
-      p:first-of-type{
+      .cards p:first-of-type{
 
         display: block;
         background-color: rgb(249, 249, 249);
