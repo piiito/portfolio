@@ -158,4 +158,8 @@ body{
     .cards div{
         width: 100%;
     }
+
+    .cards IMG:hover{
+        transform: scale(1.3);
+     }
 }
